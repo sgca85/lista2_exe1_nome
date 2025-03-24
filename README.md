@@ -1,9 +1,16 @@
 Digite seu primeiro nome
+
 Soraia
+
 Digite seu ultimo sobrenome
+
 Abbas
+
 Nome Completo:Soraia Abbas
+
 Catálogo:ABBAS,Soraia
+
+
 
 CÓDIGO C#
 Console.Clear();
